@@ -3,7 +3,3 @@
 - 👀 I’m interested in SQL, Tableau and Python
 - 🌱 As a diligent Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in a fast-paced complex Agile and Waterfall IT programmes in London (UK), I am now looking for a Data Analyst job where I can use my problem solving, data analysis and visualisation skills
 - 📫 You can reach me on senja12@mail.com 
-
-Senja-P/Senja-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

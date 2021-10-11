@@ -6,7 +6,7 @@
 
 You can reach me on senja12@mail.com 
 
-Please find below in the list of case studies and used tools.
+Please find below the list of case studies and used tools.
   
 ## [Case Study 1: Film Company - Customer and Sales Analysis](https://github.com/Senja-P/SQL-Customer-Sales) 
 * In this case study, I am helping Rockbuster Stealth, a fictional video rental company that used to have stores around the world. It is struggling to compete with the online streaming companies and would like help with launching a new online film rental platform. 

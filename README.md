@@ -18,7 +18,7 @@ Please find below the list of case studies and used tools.
 * In this study project the stakeholders are considering a targeted marketing strategy and have requested an analysis of its customers and their purchasing behaviours. My task is to perform a data and exploratory analysis in order to derive insights and suggest strategies for better segmentation.
 * Technical Skills Utilised; 
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy
-  - Tableau 
+  
 
 
 

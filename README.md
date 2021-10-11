@@ -1,4 +1,4 @@
-![](https://github.com/Senja-P/Images/blob/main/GitHub_image1.JPG)
+![](https://github.com/Senja-P/Images/blob/main/GitHub_1image.JPG)
 
 # <H1> **Hello, I’m Senja**
 
@@ -8,14 +8,18 @@ You can reach me on senja12@mail.com
 
 Please find below in the list of case studies and used tools.
   
-## Case Study 1: Fictional Film Company - Customer and Sales Analysis 
+## [Case Study 1: Fictional Film Company - Customer and Sales Analysis](https://github.com/Senja-P/SQL-Customer-Sales) 
 * In this case study, I am helping Rockbuster Stealth, a fictional video rental company that used to have stores around the world. It is struggling to compete with the online streaming companies and would like help with launching a new online film rental platform. 
-* Technical Skills Utilised; SQL and Tableau
+* Technical Skills Utilised:  
+  - SQL tools; PostgreSQL PgAdmin 4
+  - Tableau
 
- ## Case Study 2: Instacart Grocery Basket Analysis
+ ## [Case Study 2: Instacart Grocery Basket Analysis](https://github.com/Senja-P/Python-Grocery-Basket)
 * In this study project the stakeholders are considering a targeted marketing strategy and have requested to analyse customers and their purchasing behaviours. My task was to
 perform an initial data and exploratory analysis in order to derive insights and suggest strategies for better segmentation.
-* Technical Skills Utilised; Python and Tableau 
+* Technical Skills Utilised; 
+  - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy
+  - Tableau 
 
 
 

@@ -15,8 +15,7 @@ Please find below in the list of case studies and used tools.
   - Tableau
 
  ## [Case Study 2: Instacart Grocery Basket Analysis](https://github.com/Senja-P/Python-Grocery-Basket)
-* In this study project the stakeholders are considering a targeted marketing strategy and have requested to analyse customers and their purchasing behaviours. My task was to
-perform an initial data and exploratory analysis in order to derive insights and suggest strategies for better segmentation.
+* In this study project the stakeholders are considering a targeted marketing strategy and have requested an analysis of its customers and their purchasing behaviours. My task is to perform a data and exploratory analysis in order to derive insights and suggest strategies for better segmentation.
 * Technical Skills Utilised; 
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy
   - Tableau 

@@ -4,7 +4,7 @@
 
  I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK), currently learning Data Analytics on [Data Immersion Course at CareerFoundry](https://careerfoundry.com/), aiming to complete the course by the end of October 2021.
 
-Please find below the list of case studies and used tools.
+Please find below the list of case studies.
   
 ## [Case Study 1: Film Company - Customer and Sales Analysis](https://github.com/Senja-P/SQL-Customer-Sales) 
 * In this case study, I am helping Rockbuster Stealth, a fictional video rental company that used to have stores around the world. It is struggling to compete with the online streaming companies and would like help with launching a new online film rental platform. 

@@ -1,10 +1,8 @@
-![](https://github.com/Senja-P/Images/blob/main/GitHub_1image.JPG)
+![](https://github.com/Senja-P/Images/blob/main/GitHub_image1.JPG)
 
 # <H1> **Hello, I’m Senja**
 
  I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK), currently learning Data Analytics on [Data Immersion Course at CareerFoundry](https://careerfoundry.com/), aiming to complete the course by the end of October 2021.
-
-You can reach me on senja12@mail.com 
 
 Please find below the list of case studies and used tools.
   

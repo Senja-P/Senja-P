@@ -2,7 +2,7 @@
 
 # <H1> **Hello, I’m Senja**
 
- I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK), currently learning Data Analytics on [Data Immersion Course at CareerFoundry](https://careerfoundry.com/), aiming to complete the course by the end of October 2021.
+ I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK), currently learning Data Analytics on [Data Immersion Course at CareerFoundry](https://careerfoundry.com/), aiming to complete the course by the mid-November 2021.
 
 Please find below the list of case studies.
   

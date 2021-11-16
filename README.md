@@ -21,4 +21,4 @@ Please find below the list of case studies.
 * In this case study I explored the variables that have an impact on car insurance cost.
 * Technical Skills Utilised; 
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, folium, json, sklearn (cluster & KMeans), pylab
-  
+  - Tableau

@@ -2,8 +2,8 @@
 
 # <H1> **Hello, I’m Senja**
 
- I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK), currently learning Data Analytics on [Data Immersion Course at CareerFoundry](https://careerfoundry.com/), aiming to complete the course by the mid-November 2021.
-
+ I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). I have completed a [Data Analytics certification course at Career Foundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in a business environment and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualizations in Tableau. 
+ 
 Please find below the list of case studies.
   
 ## [Case Study 1: Film Company - Customer and Sales Analysis](https://github.com/Senja-P/SQL-Customer-Sales) 
@@ -18,7 +18,9 @@ Please find below the list of case studies.
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, scipy
   
  ## [Case Study 3: Car Insurance - Data Analysis ](https://github.com/Senja-P/Python-Customer-Insurance)
-* In this case study I explored the variables that have an impact on car insurance cost.
+* In this case study I explored the variables that have an impact on car insurance cost. The purpose of the project was to use the findings to plan the customer retention program.
 * Technical Skills Utilised; 
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, folium, json, sklearn (cluster & KMeans), pylab
   - Tableau
+
+ You can reach me on senja12@mail.com

@@ -2,7 +2,7 @@
 
 # <H1> **Hello, I’m Senja**
 
- I'm an aspiring Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). I have completed a [Data Analytics certification course at Career Foundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in a business environment and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualizations in Tableau. 
+ I'm a  creative and innovative Data Analyst with more than 10 years of experience in PMO (Programme Management Office) roles in fast-paced complex Agile and Waterfall IT programmes in London (UK). I have completed a [Data Analytics certification course at Career Foundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in a business environment and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualizations in Tableau. 
  
 Please find below the list of case studies.
   

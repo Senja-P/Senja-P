@@ -26,4 +26,4 @@ Please find the links to the case studies below.
   - Python tools and libraries; Jupyter, Pandas, NumPy, os, matplotlib, seaborn, folium, json, sklearn (e.g cluster & KMeans), pylab
   - Tableau
 
- You can reach me on senja12@mail.com
+

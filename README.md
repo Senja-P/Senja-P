@@ -2,7 +2,7 @@
 
 # <H1> **Hello, I’m Senja**
 
-A creative Data Analyst and Project Specialist with excellent problem solving skills. I completed a [Data Analytics certification course at CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in business environments and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualisations in Tableau. 
+A creative Data Analyst and Project & Resource Specialist with excellent problem solving skills. I completed a [Data Analytics certification course at CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in business environments and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualisations in Tableau. 
  
 You find more about me [here](https://github.com/Senja-P/About_Me).
  

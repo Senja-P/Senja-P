@@ -2,11 +2,11 @@
 
 # <H1> **Hello, I’m Senja**
 
-A creative Data Analyst and Project & Resource Specialist with excellent problem solving skills. I completed a [Data Analytics certification course at CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in business environments and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualisations in Tableau. 
+A creative Data Analyst and Resource & Project Specialist with excellent problem solving skills. I completed a [Data Analytics certification course at CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/) in November 2021. In the Data Immersion course I learned to implement statistical methods in business environments and use analytics tools and techniques; SQL databases, Python scripts, Excel and data visualisations in Tableau. 
  
 You find more about me [here](https://github.com/Senja-P/About_Me).
  
-Please find below the links to the some case studies.
+Please find below the links to some case studies.
   
 ## [Case Study 1: Film Company - Customer and Sales Analysis](https://github.com/Senja-P/SQL-Customer-Sales) 
 * In this case study, I am helping Rockbuster Stealth, a fictional movie rental company that used to have stores around the world. It is struggling to compete with the online streaming companies and would like help with launching a new online film rental platform. To kick off the process, Management Team have asked the questions to understand the sale revenue and customer locations. 
